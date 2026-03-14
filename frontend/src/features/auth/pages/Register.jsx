@@ -5,7 +5,7 @@ const Register = () => {
     const navigate = useNavigate()
      const handleSubmit = async (e) => {
         e.preventDefault()
-        navigate("/")
+        navigate("/") 
     }
   return (
        <main>
